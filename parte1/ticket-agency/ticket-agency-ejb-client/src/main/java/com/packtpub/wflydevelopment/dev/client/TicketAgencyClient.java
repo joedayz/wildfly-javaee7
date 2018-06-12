@@ -159,11 +159,11 @@ public class TicketAgencyClient {
     }
 
     private TheatreInfoRemote lookupTheatreInfoEJB() throws NamingException {
-        return (TheatreInfoRemote) context.lookup("ejb:/ticket-agency-ejb//TheatreInfo!TheatreInfoRemote");
+        return (TheatreInfoRemote) context.lookup("ejb:/ticket-agency-ejb//TheatreInfo!com.packtpub.wflydevelopment.dev.boundary.TheatreInfoRemote");
     }
 
     private TheatreBookerRemote lookupTheatreBookerEJB() throws NamingException {
-        return (TheatreBookerRemote) context.lookup("ejb:/ticket-agency-ejb//TheatreBooker!TheatreBookerRemote?stateful");
+        return (TheatreBookerRemote) context.lookup("ejb:/ticket-agency-ejb//TheatreBooker!com.packtpub.wflydevelopment.dev.boundary.TheatreBookerRemote?stateful");
     }
 
     private void showWelcomeMessage() {

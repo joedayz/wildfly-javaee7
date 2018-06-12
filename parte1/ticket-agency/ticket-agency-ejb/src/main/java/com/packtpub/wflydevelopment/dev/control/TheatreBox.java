@@ -45,7 +45,7 @@ public class TheatreBox {
         seats.put(seat.getId(), seat);
     }
 
-    @Lock(READ)
+    @Lock(READ)  //manejar la concurrencia
     public Collection<Seat> getSeats() {
         return Collections.unmodifiableCollection(seats.values());
     }

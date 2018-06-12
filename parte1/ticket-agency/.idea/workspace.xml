@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dc0bfb1-6145-48a2-88f8-ccef6c986dbc" name="Default" comment="" />
+    <list default="true" id="0dc0bfb1-6145-48a2-88f8-ccef6c986dbc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/TheatreBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/TheatreBox.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/ticket-agency-ejb/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ticket-agency-ejb-client/target/" />
@@ -14,23 +18,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ejb-jar.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/ejb-jar.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="TheatreBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/TheatreBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="TheatreInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheatreBooker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreBooker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            <state relative-caret-position="215">
+              <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketAgencyClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="170" column="68" lean-forward="true" selection-start-line="170" selection-start-column="68" selection-end-line="170" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheatreInfoRemote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreInfoRemote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-379">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jboss-ejb-client.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/resources/jboss-ejb-client.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="IOUtils.java" pinned="false" current-in-tab="false">
@@ -42,34 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TicketAgencyClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/javax/naming/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jboss-ejb-client.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/resources/jboss-ejb-client.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+            <state relative-caret-position="195">
+              <caret line="904" column="11" selection-start-line="904" selection-start-column="11" selection-end-line="904" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -79,7 +109,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>chapter</find>
+      <find>chapter3</find>
+      <find>TheatreInfoRemote</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ticket-agency-ejb-client</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -158,6 +193,8 @@
         <option value="$PROJECT_DIR$/ticket-agency-ejb/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/TheatreBox.java" />
+        <option value="$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java" />
       </list>
     </option>
   </component>
@@ -177,11 +214,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1315" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="734" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,16 +274,9 @@
               <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
-              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="boundary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
@@ -287,9 +317,7 @@
               <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
               <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
               <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,15 +406,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528762314167</updated>
-      <workItem from="1528762318373" duration="125000" />
+      <workItem from="1528762318373" duration="2249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125000" />
+    <option name="totallyTimeSpent" value="2249000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="739" extended-state="6" />
+    <frame x="0" y="156" width="1306" height="582" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -398,9 +426,9 @@
       <window_info anchor="right" id="CDI" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39176092" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34168014" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
@@ -417,6 +445,35 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info id="EJB" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.34168014" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info id="Designer" order="1" />
+      <window_info anchor="right" id="JSF" order="1" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="right" id="CDI" order="4" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -425,16 +482,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/ejb-jar.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/entity/Seat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/AutomaticSellerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/control/TheatreBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreBooker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/javax/naming/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="904" column="11" selection-start-line="904" selection-start-column="11" selection-end-line="904" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -445,27 +544,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="-379">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/resources/jboss-ejb-client.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreInfoRemote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/java/com/packtpub/wflydevelopment/dev/boundary/TheatreInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        <state relative-caret-position="90">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="170" column="68" lean-forward="true" selection-start-line="170" selection-start-column="68" selection-end-line="170" selection-end-column="68" />
         </state>
       </provider>
     </entry>
