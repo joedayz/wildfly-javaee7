@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dc0bfb1-6145-48a2-88f8-ccef6c986dbc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/ticket-agency-ejb/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ticket-agency-ejb-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ejb-jar.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/ejb-jar.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/IOUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketAgencyClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jboss-ejb-client.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/resources/jboss-ejb-client.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chapter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../DemoSpringBoot" value="1490435004000" />
+        <entry key="$PROJECT_DIR$/../../../DemoStart" value="1490430534000" />
+        <entry key="$PROJECT_DIR$/../../../Testing Java Microservices 1P Review Source Code/comments-service" value="4437434958000" />
+        <entry key="$PROJECT_DIR$/../../../Testing Java Microservices 1P Review Source Code/video-service" value="4437434958000" />
+        <entry key="$PROJECT_DIR$/../../../campusbackend" value="1490413148000" />
+        <entry key="$PROJECT_DIR$/../../../rkbackend" value="1491011635000" />
+        <entry key="$PROJECT_DIR$/../../../rrhh-backend" value="1490461910000" />
+        <entry key="$USER_HOME$/Projects/Celtic_Pricing_Backend" value="1472267214000" />
+        <entry key="$USER_HOME$/Projects/Celtic_Pricing_Frontend" value="1472267271000" />
+        <entry key="$USER_HOME$/Projects/SpringiA4_SourceCode/Chapter_05/Spittr" value="2830261148000" />
+        <entry key="$USER_HOME$/Projects/campusbackend" value="1481944083000" />
+        <entry key="$USER_HOME$/Projects/campusbitbucket/campusbackend" value="1480916914000" />
+        <entry key="$USER_HOME$/Projects/campusbitbucket/campusfrontend" value="1480917369000" />
+        <entry key="$USER_HOME$/Projects/campusfrontend" value="1472279500000" />
+        <entry key="$USER_HOME$/Projects/cosapi/frame3-prueba" value="2939559233000" />
+        <entry key="$USER_HOME$/Projects/gs-accessing-data-mongodb/complete" value="1476931191000" />
+        <entry key="$USER_HOME$/Projects/gs-crud-with-vaadin/complete" value="1469773112000" />
+        <entry key="$USER_HOME$/Projects/infraestructura-spring/config-server" value="5871968612000" />
+        <entry key="$USER_HOME$/Projects/rrhh-backend" value="1483303494000" />
+        <entry key="$USER_HOME$/Projects/runakuna_backend" value="1483775131000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-data-gemfire/complete" value="1477123760000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-data-jpa/complete" value="1477124353000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-data-mongodb/complete" value="1477124416000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-data-neo4j/complete" value="1477122942000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-data-rest/complete" value="1477125635000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-facebook/complete" value="1477122804000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-accessing-twitter/complete" value="1477122597000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-async-method/complete" value="1477124660000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-authenticating-ldap/complete" value="1477120583000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-batch-processing/complete" value="1477123276000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-caching-gemfire/complete" value="1477124150000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-caching/complete" value="1477125934000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-consuming-web-service/complete" value="1477125528000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-handling-form-submission/complete" value="1477124778000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-integration/complete" value="1477123810000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-managing-transactions/complete" value="1477124259000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-messaging-redis/complete" value="1477121678000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-messaging-stomp-websocket/complete" value="1477124893000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-producing-web-service/complete" value="1477125878000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-register-facebook-app" value="1477120945000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-register-twitter-app" value="1477122087000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-relational-data-access/complete" value="1477120078000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-rest-hateoas/complete" value="1477123564000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-rest-service-cors/complete" value="1477125257000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-scheduling-tasks/complete" value="1477119779000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-securing-web/complete" value="1477123384000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-spring-boot-docker/complete" value="1477126000000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-testing-web/complete" value="1477126402000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-uploading-files/complete" value="1477120274000" />
+        <entry key="$USER_HOME$/Projects/spring-guides/gs-validating-form-input/complete" value="1477123031000" />
+        <entry key="$USER_HOME$/Projects/titanic" value="1485235956000" />
+        <entry key="$USER_HOME$/Projects/tss/runakuna_backend" value="1483304985000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../jcache" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../progblog-examples/lombok-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/eventuate/eventuate-tram-examples-java-spring-todo-list/multi-module" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/eventuate/eventuate-tram-examples-java-spring-todo-list/single-module" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/joedayz/joedayz.pe" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/rkbackend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ticket-agency-ejb/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ticket-agency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ticket-agency" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket-agency-ejb-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Projects/learning-akka/ch1/akkademy-db-java" value="1472592442000" />
+        <entry key="$USER_HOME$/Projects/learning-akka/ch1/akkademy-db-scala" value="1472592442000" />
+        <entry key="$USER_HOME$/Projects/learning-akka/ch2/akkademy-db-scala" value="1472592442000" />
+        <entry key="$USER_HOME$/akkademy-db" value="1472533435000" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc0bfb1-6145-48a2-88f8-ccef6c986dbc" name="Default" comment="" />
+      <created>1528762314167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528762314167</updated>
+      <workItem from="1528762318373" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="739" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32866043" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39176092" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="EJB" side_tool="true" />
+      <window_info anchor="right" id="JSF" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/src/main/resources/META-INF/ejb-jar.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/IOUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/java/com/packtpub/wflydevelopment/dev/client/TicketAgencyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/src/main/resources/jboss-ejb-client.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticket-agency-ejb-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19171484" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
